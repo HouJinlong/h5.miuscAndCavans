@@ -20,3 +20,7 @@
 [张鑫旭大神的](http://www.zhangxinxu.com/wordpress/2017/06/html5-web-audio-api-js-ux-voice/)
 
 [很详细的一篇文章](http://www.cnblogs.com/qieguo/p/5405303.html)
+# 截图
+![预览图](http://orfd0ppp9.bkt.clouddn.com/webAudio2017630-100527.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/webAudio2017630-100452.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/webAudio2017630-100511.jpg)
